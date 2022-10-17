@@ -1,0 +1,11 @@
+
+Cahit Arf’ın Almanya’da ünlü bir matematik dergisi olan Crelle Journal’da 1939 yılında yayımlanmış olan ilk çalışması, Göttingen Üniversitesi’nde, 1938 yılında hazırladığı son derece parlak olan doktora tezidir. Cahit Arf’ın Almanya’ya gelmeden önce düşündüğü ve proje haline getirdiği çok kapsamlı bir problem vardı: Çözülebilen cebirsel denklemlerin bir listesini yapmak. Bu amaçla Göttingen’e gitti ve orada ünlü matematikçi Hasse’nin doktora öğrencisi oldu. Hasse’ye projesinden bahsetti.
+
+Hasse, problemi önce özel hallerde çözmesini salık verdiğini, bunun üzerine birkaç ay gibi kısa bir süre Cahit Arf’ın hiç gözükmediğini ve o süre sonunda problemi tamamen çözüp kendisine getirdiğini 1974′te yine Silivri’de bir Cebir ve Sayılar Teorisi toplantısında anlatmıştı. Bu olay Cahit Arf’ın üstün matematik yeteneğini göstermenin yanı sıra daha Göttingen’e gelirken matematik bakımından ne kadar olgun olduğunu da göstermektedir.
+
+Cahit Arf bu çalışmasıyla sayılar teorisinde çok özel bir yeri olan lokal cisimlerde dallanma teorisine çok önemli yapısal bir katkıda bulunmuştur. Burada bulduğu sonuçlardan bir bölümü bugün dünya matematik literatüründe ve kitaplarda Hasse-Arf Teoremi olarak geçmektedir.
+Lokal cisimler teorisi, daha önce de belirtildiği gibi, H. Hasse tarafından çok efektif olarak kullanılmaya başlanmıştı. Ancak, o zamanki lokal cisimler teorisi, daha ziyade sayı-cisimleri ve (sonlu katsayılı) cebrik fonksiyon-cisimleri üzerine uygulanmak maksadıyla geliştirildiği için, daima kalan sınıf cisminin sonlu bir cisim olduğu kabul edilerek kurulmuş idi.
+
+Dolayısıyla, bu oldukça sınırlı şartın yerine daha genel bir şart altında bu teorinin kurulması çok arzu edilen bir husus idi. Herhalde onun içindir, Cahit Bey’in Göttingen’de Hasse ile yaptığı ilk görüşmede, Hasse ona hemen bu problemi doktora konusu olarak tavsiye etmiştir.
+
+Cahit Bey’in bana anlattığına göre, bu görüşmeden sonra, kendisi bir daha hiç Hasse ile görüşmemiş, ta bir yıl sonra doktora tezini bitirinceye kadar. “Untersuchungen Über Reinverzweigte Erweiterungen Diskret bewerteter Perfekter Körper” adlı Cahit Bey’in tezinde, kalan sınıf cisminin sonlu olması şartı yerine daha çok genel bir şart altında lokal cisimler teorisi kurulmuştur. Cahit Bey’in tezinde şekillenmiştir diyebiliriz.
